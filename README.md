@@ -51,4 +51,4 @@ The script builds five reusable temp tables (`base_events`, `sessions`, `purchas
 Built in Power BI from the query results (`dashboard.png` above). It covers KPIs, the purchase funnel, revenue by channel, attribution models, retention cohorts, RFM segments and repeat purchase rate by channel.
 
 ## Author
-**Tina Okonkwo**, Data & Digital Technology Professional · [LinkedIn](#) · [Portfolio](#)
+**Tina Okonkwo**, Data & Digital Technology Professional · https://www.linkedin.com/in/augustina-okonkwo/
